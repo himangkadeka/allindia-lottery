@@ -78,7 +78,7 @@
         <small>
             Purchase of lottery using this website is strictly prohibited in the states where lotteries are banned.
             You must be above 18 years to play Online Lottery.<br>
-            playindialottery.com all rights reserved.
+            playindia-lottery.com all rights reserved.
         </small>
     </footer>
 
